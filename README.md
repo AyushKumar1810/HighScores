@@ -450,9 +450,7 @@ python -m pytest tests/ --cov=math_generator --cov-report=html
 - Multi-language support for international curricula
 - Advanced analytics and learning outcome tracking
 
-## 📄 **License & Usage**
 
-This project is licensed under the **MIT License** - see the [LICENSE.md](LICENSE.md) file for details.
 
 ### **Commercial Usage**
 - ✅ Educational institutions and teachers
